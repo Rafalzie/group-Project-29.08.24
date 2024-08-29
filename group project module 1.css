@@ -1,0 +1,102 @@
+/* Frame 1 */
+
+position: relative;
+width: 850px;
+height: 1134px;
+
+background: linear-gradient(359.87deg, rgba(233, 254, 1, 0.6) 0.11%, #80BF00 99.89%);
+
+
+/* Frame 2 */
+
+position: absolute;
+width: 850px;
+height: 75px;
+left: 0px;
+top: 0px;
+
+background: #EAFF00;
+
+
+/* price 1 */
+
+position: absolute;
+width: 114px;
+height: 75px;
+left: 85px;
+top: 0px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.63%;
+right: 10.78%;
+top: 20.82%;
+bottom: 31.6%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 1.47%;
+right: 1.47%;
+top: 21.6%;
+bottom: 20.82%;
+
+background: #000000;
+
+
+/* Frame 4 */
+
+position: absolute;
+left: 27.84%;
+right: 15.34%;
+top: 12.14%;
+bottom: 16.43%;
+
+
+
+/* Frame 5 */
+
+position: absolute;
+width: 690px;
+height: 847px;
+left: 80px;
+top: 143px;
+
+background: #FFFFFF;
+
+
+/* Frame 6 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 491px;
+top: 336px;
+
